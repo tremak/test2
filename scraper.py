@@ -7,7 +7,7 @@ import re
 from random import randrange
 import time
 from decimal import Decimal
-import BeautifulSoup
+import beautifulsoup4
 
 import sys  
 reload(sys)  
